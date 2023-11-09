@@ -1,0 +1,3 @@
+microservice:
+  name: "notification-service"
+  profile: "local"

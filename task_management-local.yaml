@@ -1,0 +1,5 @@
+microservice:
+  name: "task_management"
+  profile: "local"
+
+
