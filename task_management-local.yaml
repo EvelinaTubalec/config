@@ -1,5 +1,5 @@
 microservice:
-  name: "task_management micro v2 "
+  name: "task_management micro v2 !"
   profile: "{cipher}3cc15f3595169e1998d6ee6228d49f19b3974ab0a71891ee31ed15f4dfd80d5e"
 
 
